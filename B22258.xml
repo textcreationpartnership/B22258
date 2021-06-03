@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Six severall orders of the Lords and Commons assembled in Parliament ... also a declaration of the Lords and Commons concerning such apprentices as have or shall list themselves to serve as souldiers in this present expedition under the command of his Excellency the Earle of Essex.</title>
+            <author>England and Wales. Parliament.</author>
+         </titleStmt>
+         <extent>Approx. 11KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B22258</idno><idno type="EEBO-CITATION">12076029</idno>
+  <idno type="VID">196860</idno>
+  <idno type="EEBO-PROQUEST">2248530580</idno>
+  
+            <idno type="STC">Wing E2307A</idno>
+            <idno type="OCLC">12076029</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B22258)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 196860)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 239:E61, no 4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Six severall orders of the Lords and Commons assembled in Parliament ... also a declaration of the Lords and Commons concerning such apprentices as have or shall list themselves to serve as souldiers in this present expedition under the command of his Excellency the Earle of Essex.</title>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>... Printed by E. P. for T. S.,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>Iuly 18, 1643.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Six orders: 1. An order for punishing of such Collectors or Receivors as shall misimploy any moneyes, Plate, or other goods, collected by any Act or Ordinance of Parliament. 2. An order</note>
+                  <note>Reproduction of original in Thomason Collection, British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Essex, Robert Devereux, --  Earl of, 1591-1646.</term>
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649 --  Sources.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-05 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-05 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:196860:1"/>
+            <pb facs="tcp:196860:1"/>
+            <p>Six severall ORDERS Of the Lords and Commons, Assembled in PARLIAMENT.</p>
+            <p>VIZ.
+<list>
+                  <item>(1.) An Order for punishing of such Collectors or Re<g ref="char:EOLhyphen"/>ceivors, as shall misimploy any moneyes, Plate, or other goods, collected by any Act or Ordinance of Parliament.</item>
+                  <item>(2.) An Order for reducing <hi>Newcastle,</hi> and the parts ad<g ref="char:EOLhyphen"/>jacent.</item>
+                  <item>(3.) An Addition to the Ordinance for sequestration of the Estates of Papists, and notorious Delinquents, within the County of <hi>Sussex.</hi>
+                  </item>
+                  <item>(4.) An Order for the apprehension of any Agent or Servant of any Persons, that beare Armes against the Parliament, presuming to come to <hi>Westminster,</hi> or recide in, or about London.</item>
+                  <item>(5.) An Order concerning Souldiers, un<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>er his Excel<g ref="char:EOLhyphen"/>lencies Command.</item>
+                  <item>(6.) An Order for provision of Beds, and other neces<g ref="char:EOLhyphen"/>saries for maymed and sicke souldiers, within the Coun<g ref="char:EOLhyphen"/>ties of <hi>Berks, Buckingham, Middlesex,</hi> and <hi>Surrey,</hi> or o<g ref="char:EOLhyphen"/>ther places, where the said souldiers shall reside.</item>
+               </list>
+            </p>
+            <p>ALSO <hi>A Declaration of the Lords and Commons, concerning such Apprentices, as have or shall list themselves, to serve as soul<g ref="char:EOLhyphen"/>diers in this present Expedition, under the Command of His Excellency the Earle of Essex.</hi>
+            </p>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <p>Ordered by the Lords and Commons in Parliament, that these Orders and Declaration be Printed and Published.</p>
+                        <closer>
+                           <signed>H. Elsing, Cler. Parl. D. Com.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>Iuly 18. Printed by E. P. for T. S. 1643.</p>
+            <pb facs="tcp:196860:2"/>
+         </div>
+      </front>
+      <body>
+         <div type="Parliamentary_order">
+            <pb n="1" facs="tcp:196860:2"/>
+            <head>An order for the punishment of such Collectors or Receivors as shal mis-imploy any Money, Plate, or other Goods, Collected by any Act or Ordinance of Parliament.</head>
+            <p>
+               <seg rend="decorInit">I</seg>T is this day Ordered by the House of Commons, that all and every Collector, Receivor, or other persons (unto whose hands any Monies, Plate, or other Goods, are appoynted to be payd, sold, or disposed of by any Act or Ordinance of Parliament) shall pay and deliver the same unto the severall and respective Treasurers, Authorized by the severall and respective Acts and Ordinances of Parliament to receive the same.</p>
+            <p>And if any such Collector, Receivor, or other per<g ref="char:EOLhyphen"/>son, shall otherwise dispose, pay, or imploy the same, that then he or they shall be liable not onely to make payment of such moneys so by him or them received, and not payd unto the Treasurers authorized to re<g ref="char:EOLhyphen"/>ceive the same as aforesaid; but also to such further punishment as this House shall think fit to inflict up<g ref="char:EOLhyphen"/>on them, for his or their neglect and contempt▪</p>
+            <closer>
+               <signed>Hen. Elsynge, Cler. Parl. D. Com.</signed>
+            </closer>
+         </div>
+         <div type="Parliamentary_order">
+            <pb n="2" facs="tcp:196860:3"/>
+            <head>An Order for reducing Newcastle and the parts adjacent.</head>
+            <p>IT is this day Ordered, That be appoynted to be Assistants to the said Committee for taking Subscriptions, and col<g ref="char:EOLhyphen"/>lecting Monies for the severall Inhabitants in the Ward of in the City of <hi>London,</hi> according to the Ordinance of both Houses of Parliament, made the fifth of <hi>June</hi> instant, for reducing that Town of <hi>Newcastle,</hi> and parts adjacent, and to doe and performe all o<g ref="char:EOLhyphen"/>ther things in pursuance of the said Ordinance, and of their doings herein, forthwith to certifie this Committee, and the Monies by them received, to pay unto Master Alderman <hi>Adams,</hi> the Treasurer of the Monies raysed by vertue of the said Ordi<g ref="char:EOLhyphen"/>nance, and it is Ordered, that the said or any two of them shal have power to give Acquittances to every person that shall subscribe and pay any sum of money by vertue of the said Ordinance, And that they keep Books of Accompt in writing, and set downe the Names of the persons, and sum by them subscribed.</p>
+            <closer>
+               <signed>Edward Gilbert, Clerk to this Committee.</signed>
+            </closer>
+         </div>
+         <div type="Parliamentary_order">
+            <pb n="3" facs="tcp:196860:3"/>
+            <head>An Addition to the Ordinance for sequestration of Delinquents Estates for the County of Sussex.</head>
+            <p>IT is this day Ordered by the Commons Assembled in Parliament. That Sir <hi>Wil. Gooring,</hi> Baronet S, <hi>Thom. Parker,</hi> S. <hi>Tho. Henley,</hi> S. <hi>Tho. Eversfield,</hi> Knight, <hi>Iohn Al<g ref="char:EOLhyphen"/>ford, Hen. Goring, Tho. Sherley, Ed. Goring, Tho. Chalonor, Hen. Shelley, Hen. Peck, Francis S<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lwyn, H<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rbert Board, Nicholas Gildredge, Iohn Board, George Churcher, William Hay, H<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nry Bridger, Tho. Anscom<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e, William Marlot, Tho. Ieffery, William Thomas,</hi> Esquires, bee added to the Com<g ref="char:EOLhyphen"/>mittees named in the Ordinances for the weekely Assesse<g ref="char:EOLhyphen"/>ment, and for s<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ezing and sequestring the Estates of Papists. notorious Delinquents, &amp;c. in the County of <hi>Sussex,</hi> and that they shall have as full and ample power to all Intents, as the other Committees, named in the said Ordinances, have might or ought to have.</p>
+            <closer>
+               <signed>Hen. El Cler. Parl. D. Com:</signed>
+            </closer>
+         </div>
+         <div type="Parliamentary_order">
+            <head>An Order of the Commons in Parliament, for the ap<g ref="char:EOLhyphen"/>prehending of any Agent, or servant, of any Person, that beare Armes against the Parliament, that shall presume to come to VVestminster, or recide in London.</head>
+            <p>IT is Ordered by the Commons now Assembled in Par<g ref="char:EOLhyphen"/>liament, that if the Agent or Servant to any Person that beares Armes against the Parliament, shall presume here<g ref="char:EOLhyphen"/>after to come to <hi>Westminster,</hi> or recide here about <hi>London,</hi> that he shall be forthwith apprehended as a Spye, and bee proceeded against accordingly and all persons are required are required to doe their endeavour for the discovery of such persons, that shall hereafter come to the Parliament House, or <hi>Westminster▪</hi> or any parts about <hi>Londoo,</hi> that they may be apprehended accordingly.</p>
+            <closer>
+               <signed>
+                  <hi>H. <hi>Elsing, Cl. Parl. D. Com.</hi>
+                  </hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="Parliamentary_order">
+            <pb n="4" facs="tcp:196860:4"/>
+            <head>An Order concerning Souldiers under his Excellencies Command.</head>
+            <p>THe Commons being informed that many Soul<g ref="char:EOLhyphen"/>diers listed, and in pay under the command of the Lord Generall, the Earl of <hi>Essex,</hi> doe daily with<g ref="char:EOLhyphen"/>draw themselves to the great prejudice of the pre<g ref="char:EOLhyphen"/>sent service, and to the distarbance of the most of the county whither they doe resort, doe order that the Deputy Lieutenants, Constables, and other head Officers, or any one or more of them, of every Coun<g ref="char:EOLhyphen"/>ty where any such souldier or souldiers shal be found do forthwith cause him or them to be apprehended, examined, and imprisoned, and with all convenient speed shall cause such Souldier or Souldiers to be safely conveyed at the charge of the County to the Lord General, or to such Captain from under whose command he shall have so withdrawn himselfe. And it is further ordered, that all Captaines, and Offi<g ref="char:EOLhyphen"/>cers of Trained-Bands and Voluntiers, and all Head-officers, Constables and all other persons whatsoever, shall be aiding and assisting to the said Deputy Leiutenants, and Iustices of Peace, or any one or more of them in execution of the premisses as they will answer the contrary at their perill.</p>
+            <closer>
+               <signed>Hen. Elsinge, Cler. Parl. D. Com.</signed>
+            </closer>
+         </div>
+         <div type="Parliamentary_order">
+            <pb n="5" facs="tcp:196860:4"/>
+            <head>An Order for provision of Beds and other necessaries for maimed and sick Soul<g ref="char:EOLhyphen"/>diers, within the Counties of Berks, Bucking<g ref="char:EOLhyphen"/>hame Middlesex, Surry, and other places where the said Souldiers shall recide.</head>
+            <p>IT is this day Ordered by the Commons House of Parlia<g ref="char:EOLhyphen"/>ment, that the high-Constables of the severall Hundreds in the counties of <hi>Berks, Buckingham, Middlesex,</hi> and <hi>Surrey,</hi> in whose divisions any sick and maymed Souldiers of the Parliaments Army are or shall be quartored or billetted, doe take speciall care that the said Souldiers be furnished, and supplyed with lodging and bedding, fitting for men in their condition: And the said high-Constables are hereby authori<g ref="char:EOLhyphen"/>sed and required to send their Warrants and Precepts to the petty-Constables of all Towns neer adjoyning to those Towns and Houses where the said Souldiers are quartered, for the bringing in of Bedding, if need require, for the use of the said Souldiers, till it shall please God to restore them to health.</p>
+            <p>And it is further Ordered; that the Committe for sequ<g ref="char:EOLhyphen"/>stration of the several Counties above mentioned, out of such Bedding as by vertue of the Ordinance of Parliament for sequestration, shal be seized for the use of the Common-wealth shall deliver so much thereof as shall be néedfull to the Trea<g ref="char:EOLhyphen"/>surers appointed by this house for maymed Souldiers, or to such as they shall appoint, for the use of the said sick &amp; woun<g ref="char:EOLhyphen"/>ded men: And that the high-Constables shall take care to re<g ref="char:EOLhyphen"/>store such bedding as shall be by them supplyed, to the Ow<g ref="char:EOLhyphen"/>ners thereof; As also, that the above mentioned Treasurers for maimed Souldiers, doe take care that the Bedding by them received from the Committee for sequestration, be not imbezilled, but carefully kept and accompted for to the use and service of the Common-wealth.</p>
+            <closer>
+               <signed>Hen. Elsynge, Cler. Parl. D. Com.</signed>
+            </closer>
+         </div>
+         <div type="Parliamentary_order">
+            <pb n="6" facs="tcp:196860:5"/>
+            <p>WHereas in times of common danger and ne<g ref="char:EOLhyphen"/>cessity, the interest of private persons ought to give way to the publike▪ It is Ordained and De<g ref="char:EOLhyphen"/>clared by the Lords and Commons in Parliament; That such Apprentices as have beene, or shall bee Lysted to serve as Souldiers, for the defence of the Religion and Liberty of the Kingdome, His Maje<g ref="char:EOLhyphen"/>sties Royall Person, the Parliament, and the City of <hi>London;</hi> their Sureties, and such as stand en<g ref="char:EOLhyphen"/>gaged for them, shall be secured against their Ma<g ref="char:EOLhyphen"/>sters, their Executors, Administrators, from all losse and Inconvenience, by forfeiture of Bonds, Covenants, Infranchisements, or otherwise, And that after this publike service ended, the Masters of such Apprentices, shalbe commanded &amp; required to re<g ref="char:EOLhyphen"/>ceive them again into their service, without imposing upon them any punishment, losse, or prejudice for their absence, in the defence of the Common-wealth.</p>
+            <p>And the Lords and Commons doe further De<g ref="char:EOLhyphen"/>clare, That if it shall appeare that the Masters of such Apprentices have received any considerable losse, by the absence of their Apprentices, they will take care that reasonable satisfaction shall be made unto them, out of the publike stock of the Kingdome, according to Iustice and Indifferency.</p>
+            <closer>
+               <signed>Iohn Browne, Cler. Parl.</signed>
+            </closer>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
